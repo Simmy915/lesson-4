@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: url(../static/daisy-flower-1532449822);
+  background-size: cover;
+  color: red;
+}
+
+h1 {
+margin-bottom: 20px;
+}
+
+th {
+width: 100px
+}
+table {
+text-align: left;
+border
+}
+
+th, td {
+border-bottom: 2px solid red;
+border-left: 2px solid red;
+}
+
